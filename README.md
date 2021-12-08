@@ -33,8 +33,8 @@
 
 <br />
 <br />
-## Favorite Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung)](https://github.com/oriastanjung/github-readme-stats)
+## Favorite Language  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung)]
 
 ## My Current Github Stats
 <div style="display : flex;">
