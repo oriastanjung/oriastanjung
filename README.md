@@ -40,6 +40,3 @@
 [instagram]: https://www.instagram.com/orias__027/
 [linkedin]: https://www.linkedin.com/in/oriastanjung/
 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
