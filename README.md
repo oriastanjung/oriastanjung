@@ -33,7 +33,7 @@
 
 <br />
 <br />
-## Favorite Language  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung)]
 
 ## My Current Github Stats
