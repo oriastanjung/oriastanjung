@@ -33,7 +33,8 @@
 
 <br />
 <br />
-
+## Favorite Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## My Current Github Stats
 <div style="display : flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&theme=react" alt="github stats" width="50%" align="center"/>
