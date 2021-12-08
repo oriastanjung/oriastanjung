@@ -35,8 +35,11 @@
 <br />
 
 ## My Current Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&theme=react" alt="github stats" width="50%" align="center"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oriastanjung&theme=react" width="50%" align="center">
+<div style="display : flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&theme=react" alt="github stats" width="50%" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oriastanjung&theme=react" width="50%" align="center">
+</div>
+
 
 
 
