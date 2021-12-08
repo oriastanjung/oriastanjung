@@ -34,6 +34,12 @@
 <br />
 <br />
 
+## My Current Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
+
+
+
 [website]: https://oriastanjung.github.io/
 [course]: http://vsCodeHero.com
 
