@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oriastanjung&theme=react" width="50%" align="center">
 </div>
 
-[website]: https://oriastanjung.vercel.app/
+[website]: https://oriastanjung.github.io/
 [course]: http://vsCodeHero.com
 [youtube]: https://www.youtube.com/channel/UCRrDY45yYxfkwfeRWPj69Ag
 [instagram]: https://www.instagram.com/orias__027/
