@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning in ReactJS and NextJS learning path<br>👯 I’m love to collaborate with other developers<br>🥅 2022 Goals: Search for an Internship or Frontend Job<br>⚡ Fun fact: I love sports, especially Basketball</p>
+<p align="center">🌱 I’m currently learning in ReactJS and NextJS learning path<br>👯 I’m love to collaborate with other developers<br>🥅 2023 Goals: Search for an Internship or Frontend Job<br>⚡ Fun fact: I love sports, especially Basketball</p>
 
 ###
 
