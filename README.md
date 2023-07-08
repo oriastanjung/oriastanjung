@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -38,15 +38,15 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning as FullStack Developer<br>👯 I’m love to collaborate with other developers<br>🥅 2023 Goals: Search for a Developer Job<br>⚡ Fun fact: I love sports, especially Basketball</p>
+<p align="left">🌱 I’m currently learning as FullStack Developer<br>👯 I’m love to collaborate with other developers<br>🥅 2023 Goals: Search for a Developer Job<br>⚡ Fun fact: I love sports, especially Basketball</p>
 
 ###
 
-<h5 align="center">Let's get Connected</h5>
+<h5 align="left">Let's get Connected</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/oriastanjung/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
