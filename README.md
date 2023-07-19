@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm O. Riastanjung</h1>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 ###
 ## About Me
 <p align="left"> * I'm a Front End Developer</p>
