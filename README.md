@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm O. Riastanjung</h1>
 
-<img src="./Banner.png" height="40" width="52" alt="react logo"  />
+<img src="./Banner.png"  alt="Banner"  />
 
 ###
 ## About Me
