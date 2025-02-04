@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-<img src="./Banner.png"  alt="Banner"  />
+<img src="https://raw.githubusercontent.com/oriastanjung/oriastanjung/refs/heads/main/Banner.png"  alt="Banner"  />
 
 ###
 <h1 align="center">I'm O. Riastanjung</h1>
