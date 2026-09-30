@@ -1,41 +1,90 @@
-<h1 align="left">Hi there 👋</h1>
+<img src="https://raw.githubusercontent.com/oriastanjung/oriastanjung/refs/heads/main/Banner.png" alt="O. Riastanjung banner" width="100%" />
 
-<img src="https://raw.githubusercontent.com/oriastanjung/oriastanjung/refs/heads/main/Banner.png"  alt="Banner"  />
+# O. Riastanjung
 
-###
-<h1 align="center">I'm O. Riastanjung</h1>
-<h3 align="center">A Passionate Web Developer in Frontend Developer. I also love building some Backend Projects.</h3>
+**Software Engineer.** I build AI agents, backend systems, and web platforms for government and commercial clients.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oriastanjung&label=Profile%20views&color=0e75b6&style=flat" alt="oriastanjung" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-oriastanjung.vercel.app-18181B?style=flat-square&logo=vercel&logoColor=white)](https://oriastanjung.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oriastanjung-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oriastanjung)
+[![Email](https://img.shields.io/badge/Email-oriastan999%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:oriastan999@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriastanjung" alt="oriastanjung" /></a> </p>
+<br />
 
-- 🌱 I’m currently learning new Frameworks and technologies like **TRPC, GRPC, GraphQL,AstroJS, and many more**
+### Now
 
-- 👨‍💻 All of my projects are available at [https://oriastanjung.vercel.app](https://oriastanjung.vercel.app)
+Software Engineer at **Quantum Teknologi** (South Jakarta) since October 2024. I own work from design to deployment and work directly with product, design, and leadership.
 
-- 💬 You can Ask me about **ReactJS, VueJS, ExpressJS, NextJS**
+Most of my recent work is agentic AI: agents with custom tools, MCP servers, and skills on the **Claude Agent SDK**, **LangChain**, and **LangGraph**, plus RAG pipelines on **Qdrant** and on-premise LLM integration.
 
-- 📫 How to reach me? **oriastan999@gmail.com**
+<br />
 
-- ⚡ Fun fact **I love sports, especially Basketball, Badminton, and Futsal**
+### Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oriastanjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriastanjung" height="30" width="40" /></a>
-<a href="https://instagram.com/@orii.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@orii.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/o. riastanjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="o. riastanjung" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/oriastanjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oriastanjung" height="30" width="40" /></a>
+| Project | What it does | My part | Stack |
+| :-- | :-- | :-: | :-- |
+| **Qompass** | AI intelligence platform for government clients, with RAG and on-premise LLMs | 100% | tRPC, Bun, RabbitMQ, LangChain, Qdrant, Python |
+| **QuantumByte** | AI app builder on microservices, with agentic AI, custom tools, MCPs, and skills | 40% | Claude Agent SDK, GraphQL, NestJS, Nuxt, Remix, FastAPI |
+| **Kejaksaan CMS** | One portal that runs many news portals, with LLM content and auto-publishing | 75% | NestJS, Next.js, PostgreSQL, TypeORM, E2EE, Cloudflare |
+| **Nexius** | Turns bank statements (PDF, Excel) into journals, cash flow, trial balance, and P&L | 50% | Remix, FastAPI, WebSocket, OpenAI, Kubernetes |
+| **Pinjemin** | Lending proof of concept with liveness verification, payment, and disbursement | 100% | Flutter, Next.js, NestJS, Duitku |
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| QuantumOps | Real-time operations dashboard with AI modules | React, HeroUI, WebSocket, OpenAI, Anthropic |
+| Sadewa | Core system with AI content generation | React, FastAPI, OpenAI, Replicate |
+| CMC | Content management with Gemini automation and web scrapers | Remix, Supabase, Selenium, GCP, Docker |
+| SICERDIK | Government platform that digitized student school transfers | React, Express, MongoDB |
+| Seeker Job | Job portal with applicant and admin workflows | Next.js, Prisma, PostgreSQL |
+| Shoecraft | E-commerce with admin dashboard and Midtrans payments | Next.js, Express, MongoDB |
+| E-commerce API | REST API with RBAC, JWT auth, and payments | Go Fiber, PostgreSQL, Cloudinary |
+| Mangrove CNN | Mangrove image recognition with a convolutional neural network | Python, Flask |
+
+</details>
+
+<br />
+
+### Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| **Software Engineer** | Quantum Teknologi (Nusantara) | Oct 2024 to now |
+| Fullstack Developer | SORE Pixel Crafters | Jul 2023 to Sep 2024 |
+| Frontend Developer, intern and division lead | Maritim Muda Nusantara | Feb 2023 to Jul 2023 |
+| Fullstack Developer | Tanjungpinang City Education Department | Oct 2022 to Jan 2023 |
+
+B.Sc. Informatics Engineering, Universitas Maritim Raja Ali Haji. GPA 3.79, highest in the 2020 cohort. Thesis on preventing man-in-the-middle attacks with end-to-end encryption.
+
+<br />
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py,dart,go,nextjs,react,remix,vue,nuxtjs,tailwind&perline=10" alt="Languages and frontend: TypeScript, Python, Dart, Go, Next.js, React, Remix, Vue, Nuxt, Tailwind" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,fastapi,flask,graphql,rabbitmq,kafka,flutter&perline=10" alt="Backend and mobile: Node.js, Bun, NestJS, Express, FastAPI, Flask, GraphQL, RabbitMQ, Kafka, Flutter" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma,docker,kubernetes,gcp,cloudflare,nginx&perline=10" alt="Data and infrastructure: PostgreSQL, MongoDB, MySQL, Supabase, Prisma, Docker, Kubernetes, GCP, Cloudflare, NGINX" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p style="background-color : white;" align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**AI:** Claude Agent SDK, MCP, LangChain, LangGraph, RAG, Qdrant, OpenAI, Anthropic, and Gemini APIs, on-premise LLMs.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oriastanjung&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oriastanjung&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
 
+### Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa&icon_color=e4e4e7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b&icon_color=18181b" alt="GitHub stats for oriastanjung" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b" alt="Most used languages for oriastanjung" height="165" />
+</picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+Open to software engineering roles in AI agents and backend systems. Email **oriastan999@gmail.com**.
