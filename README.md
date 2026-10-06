@@ -4,9 +4,9 @@
 
 **Software Engineer.** I build AI agents, backend systems, and web platforms for government and commercial clients.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oriastanjung.vercel.app-18181B?style=flat-square&logo=vercel&logoColor=white)](https://oriastanjung.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oriastanjung-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oriastanjung)
-[![Email](https://img.shields.io/badge/Email-oriastan999%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:oriastan999@gmail.com)
+[[https://img.shields.io/badge/Portfolio-oriastanjung.vercel.app-18181B?style=flat-square&logo=vercel&logoColor=white]](https://oriastanjung.vercel.app)
+[[https://img.shields.io/badge/LinkedIn-oriastanjung-18181B?style=flat-square&logo=linkedin&logoColor=white]](https://linkedin.com/in/oriastanjung)
+[[https://img.shields.io/badge/Email-oriastan999%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white]](mailto:oriastan999@gmail.com)
 
 <br />
 
@@ -76,14 +76,23 @@ B.Sc. Informatics Engineering, Universitas Maritim Raja Ali Haji. GPA 3.79, high
 
 ### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa&icon_color=e4e4e7" />
-  <img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b&icon_color=18181b" alt="GitHub stats for oriastanjung" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b" alt="Most used languages for oriastanjung" height="165" />
-</picture>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=oriastanjung&theme=transparent&hide_border=true&ring=e4e4e7&fire=e4e4e7&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a" />
+    <img src="https://streak-stats.demolab.com/?user=oriastanjung&theme=transparent&hide_border=true&ring=18181b&fire=18181b&currStreakNum=18181b&sideNums=18181b&currStreakLabel=52525b&sideLabels=52525b&dates=71717a" alt="GitHub streak stats for oriastanjung" height="165" />
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa&icon_color=e4e4e7" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oriastanjung&show_icons=true&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b&icon_color=18181b" alt="GitHub stats for oriastanjung" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=e4e4e7&text_color=a1a1aa" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriastanjung&layout=compact&hide_border=true&theme=transparent&title_color=18181b&text_color=52525b" alt="Most used languages for oriastanjung" height="165" />
+  </picture>
+</p>
 
 <br />
 
